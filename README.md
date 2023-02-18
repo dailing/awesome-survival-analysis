@@ -4,7 +4,7 @@
 ## Papers & Code
 
 * 2022 KDD  [**Predicting Age-Related Macular Degeneration Progression with Contrastive Attention and Time-Aware LSTM**](notes/2022_age_related_macular/2022_age_related_macular.md)  [[paper]](https://web.cse.ohio-state.edu/~zhang.10631/files/KDD2022_AMD.pdf) [[Code]](https://github.com/yinchangchang/CAT-LSTM)
-* Deep Survival Machines: Fully Parametric Survival Regression and Representation Learning for Censored Data with Competing Risks
+* 2021 JBHI [**Deep Survival Machines: Fully Parametric Survival Regression and Representation Learning for Censored Data with Competing Risks**](notes/2021_Deep_Survival_Machines/note.md) [[paper]](https://arxiv.org/pdf/2003.01176.pdf) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9326348) [[Code]](https://github.com/autonlab/DeepSurvivalMachines)
 * Deep Parametric Time-to-Event Regression with Time-Varying Covariates
 * Deep Cox Mixtures for Survival Regression
 * SurvNet: A Novel Deep Neural Network for Lung Cancer Survival Analysis With Missing Values
